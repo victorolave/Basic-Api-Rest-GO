@@ -15,7 +15,7 @@ type Person struct {
 }
 
 type Address struct {
-	City string `json:"ciudad, ommitempty"`
+	City string `json:"city, ommitempty"`
 	State string `json: "state, ommitempty"`
 }
 
